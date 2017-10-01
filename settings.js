@@ -55,6 +55,10 @@ var data = {
       "name":"ol"
     },
     {
+      "site":"www.github.com/",
+      "name":"git"
+    },
+    {
       "site":"www.iheart.com/live/classic-rock-1007-wrdu-1645/?autoplay=true&pname=15400&campid=header&cid=index.html",
       "name":"wrdu"
     }
@@ -115,8 +119,8 @@ var data = {
       "name":"t-kay"
     },
     {
-      "site":"makingofneon.com/",
-      "name":"neon"
+      "site":"oglaf.com",
+      "name":"oglaf"
     }
   ],
   "part3": [
