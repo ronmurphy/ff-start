@@ -15,7 +15,7 @@ var data = {
   "ShowPart2": true,
   "ShowPart3": true,
   "ShowPart4": true,
-  "ShowPart5": false,
+  "ShowPart5": true,
   "ShowPart6": false,
 
   "IMGPart1": "http://www.readingtree.org/wp-content/uploads/2013/07/Newspapers.jpg",
@@ -185,24 +185,24 @@ var data = {
   ],
   "part5": [
     {
-      "site":"drive.google.com",
-      "name":"google drive"
+      "site":"donjon.bin.sh/",
+      "name":"EVERYTHING..."
     },
     {
-      "site":"www.yahoo.com",
-      "name":"yahoo"
+      "site":"npcgenerator.azurewebsites.net/",
+      "name":"npc gen"
     },
     {
-      "site":"unsplash.com",
-      "name":"unsplash"
+      "site":"redkatart.com/dnd5tools/#treasureBox",
+      "name":"redkat"
     },
     {
-      "site":"www.xda-developers.com",
-      "name":"xda-developers"
+      "site":"cjdudley1.github.io/DnD-Toolkit/mixer.html",
+      "name":"sounds"
     },
     {
-      "site":"www.plex.tv",
-      "name":"plex"
+      "site":"encountr.io/",
+      "name":"encountr"
     },
     {
       "site":"plus.google.com",
