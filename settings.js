@@ -62,6 +62,10 @@ var data = {
       "site":"www.iheart.com/live/classic-rock-1007-wrdu-1645/?autoplay=true&pname=15400&campid=header&cid=index.html",
       "name":"wrdu"
     }
+    {
+      "site":"www.netflix.com",
+      "name":"netflix"
+    }
   ],
   "part1": [
     {
@@ -201,8 +205,8 @@ var data = {
       "name":"sounds"
     },
     {
-      "site":"encountr.io/",
-      "name":"encountr"
+      "site":"rpg.rem.uz",
+      "name":"pdfs"
     },
     {
       "site":"gozzys.com/dungeon-maps",
