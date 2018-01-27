@@ -1,11 +1,9 @@
-b/*
+/*
 !!! DONT do: http://www.google.com
 !!! DO: www.google.com
 you can add as mutch as you want!
-
 favo icons are added automaticly
-
-site updated and maintained by Solo
+site made by MJARKK
 */
 var data = {
 
@@ -223,16 +221,16 @@ var data = {
       "name":"crunchyroll"
     },
     {
-      "site":"123movieshub.to",
-      "name":"123movies"
-    },
-    {
       "site":"www.pandora.com",
       "name":"pandora"
     },
     {
       "site":"www.iheart.com/live/classic-rock-1007-wrdu-1645/?autoplay=true&pname=15400&campid=header&cid=index.html",
       "name":"wrdu"
+    },
+    {
+      "site":"www.reddit.com/r/linux/",
+      "name":"reddit/linux"
     },
     {
       "site":"www.reddit.com/r/google/",
