@@ -3,7 +3,7 @@
 !!! DO: www.google.com
 you can add as mutch as you want!
 favo icons are added automaticly
-site made by MJARKK
+based on site made by MJARKK, updated and modified by Solo
 */
 var data = {
 
