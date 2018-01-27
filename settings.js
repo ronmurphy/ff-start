@@ -5,7 +5,7 @@ you can add as mutch as you want!
 
 favo icons are added automaticly
 
-site made by MJARKK
+site updated and maintained by Solo
 */
 var data = {
 
