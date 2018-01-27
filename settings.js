@@ -16,7 +16,7 @@ var data = {
   "ShowPart3": true,
   "ShowPart4": true,
   "ShowPart5": true,
-  "ShowPart6": false,
+  "ShowPart6": true,
 
   "IMGPart1": "http://www.readingtree.org/wp-content/uploads/2013/07/Newspapers.jpg",
   "IMGPart2": "http://www.walldevil.com/wallpapers/w02/796765-armor-artwork-battles-futuristic-games-guns-rain-tiberium-war-weapons.jpg",
@@ -57,14 +57,6 @@ var data = {
     {
       "site":"www.github.com/",
       "name":"git"
-    },
-    {
-      "site":"www.iheart.com/live/classic-rock-1007-wrdu-1645/?autoplay=true&pname=15400&campid=header&cid=index.html",
-      "name":"wrdu"
-    },
-    {
-      "site":"www.netflix.com",
-      "name":"netflix"
     }
   ],
   "part1": [
@@ -219,24 +211,24 @@ var data = {
   ],
   "part6": [
     {
-      "site":"www.reddit.com/r/unixporn/",
-      "name":"reddit/unixporn"
+      "site":"www.netflix.com",
+      "name":"netflix"
     },
     {
-      "site":"www.reddit.com/r/startpages/",
-      "name":"reddit/startpages"
+      "site":"www.hulu.com",
+      "name":"hulu"
     },
     {
-      "site":"www.reddit.com/r/funny/",
-      "name":"reddit/funny"
+      "site":"www.crunchyroll.com",
+      "name":"crunchyroll"
     },
     {
-      "site":"www.reddit.com/r/linuxmasterrace/",
-      "name":"reddit/linuxmasterrace"
+      "site":"www.pandora.com",
+      "name":"pandora"
     },
     {
-      "site":"www.reddit.com/r/pcmasterrace/",
-      "name":"reddit/pcmasterrace"
+      "site":"www.iheart.com/live/classic-rock-1007-wrdu-1645/?autoplay=true&pname=15400&campid=header&cid=index.html",
+      "name":"wrdu"
     },
     {
       "site":"www.reddit.com/r/linux/",
