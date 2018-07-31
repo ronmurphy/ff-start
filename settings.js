@@ -59,6 +59,10 @@ var data = {
     {
       "site":"www.youtube.com/",
       "name":"youtube"
+    },
+    {
+      "site":"hentairules.net/",
+      "name":"hr"
     }
   ],
   "part1": [
