@@ -16,12 +16,12 @@ var data = {
   "ShowPart5": true,
   "ShowPart6": true,
 
-  "IMGPart1": "http://www.readingtree.org/wp-content/uploads/2013/07/Newspapers.jpg",
-  "IMGPart2": "http://www.walldevil.com/wallpapers/w02/796765-armor-artwork-battles-futuristic-games-guns-rain-tiberium-war-weapons.jpg",
-  "IMGPart3": "http://nerdist.com/wp-content/uploads/2015/12/Lightsaber-Duel_Playbuzz_12122015.jpg",
-  "IMGPart4": "http://paradoxoff.com/files/2015/02/animals-bw-1.jpg",
-  "IMGPart5": "https://s-media-cache-ak0.pinimg.com/originals/78/c5/ee/78c5ee8ec00be6fd145217fd7cb18b32.jpg",
-  "IMGPart6": "https://static.pexels.com/photos/279/black-and-white-branches-tree-high.jpg",
+  "IMGPart1": "https://i.pinimg.com/236x/ca/bd/20/cabd2028a068b6f62ee525fa3f11521f--the-box-the-artist.jpg",
+  "IMGPart2": "https://i.pinimg.com/236x/ca/bd/20/cabd2028a068b6f62ee525fa3f11521f--the-box-the-artist.jpg",
+  "IMGPart3": "https://i0.wp.com/getcomics.info/share/uploads/2018/08/2018.08.22-DC-Week.jpg",
+  "IMGPart4": "https://i.imgur.com/uLAimaY.png?fb",
+  "IMGPart5": "https://i.ebayimg.com/images/g/se8AAOSwEzxYNwgK/s-l300.jpg",
+  "IMGPart6": "https://mk0futurimedialhpywe.kinstacdn.com/wp-content/uploads/2017/05/StreamingPlayBtn.png",
 
   "TitleLinks": [
     {
