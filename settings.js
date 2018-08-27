@@ -63,6 +63,10 @@ var data = {
     {
       "site":"hentairules.net/",
       "name":"hr"
+    },
+    {
+      "site":"dndforge.org/minis/",
+      "name":"mf"
     }
   ],
   "part1": [
