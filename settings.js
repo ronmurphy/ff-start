@@ -211,10 +211,6 @@ var data = {
       "name":"pdfs"
     },
     {
-      "site":"gozzys.com/dungeon-maps",
-      "name":"colormaps"
-    },
-    {
       "site":"rpgobjects.com/tiamat/index.php",
       "name":"tiamat"
     },
