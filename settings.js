@@ -195,8 +195,8 @@ var data = {
       "name":"EVERYTHING..."
     },
     {
-      "site":"npcgenerator.azurewebsites.net/",
-      "name":"npc gen"
+      "site":"lordbyng.net/inspiration/",
+      "name":"unique items gen"
     },
     {
       "site":"redkatart.com/dnd5tools/#treasureBox",
