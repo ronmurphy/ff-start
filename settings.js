@@ -67,6 +67,10 @@ var data = {
     {
       "site":"dndforge.org/minis/",
       "name":"mf"
+    },
+    {
+      "site":"s2p.moe/",
+      "name":"s2p"
     }
   ],
   "part1": [
