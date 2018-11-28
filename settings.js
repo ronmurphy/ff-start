@@ -99,8 +99,8 @@ var data = {
       "name":"slug"
     },
     {
-      "site":"slugboxcreatureart.tumblr.com/",
-      "name":"sbca"
+      "site":"twitter.com/slugbox",
+      "name":"sbtw"
     }
   ],
   "part2": [
