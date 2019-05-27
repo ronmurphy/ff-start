@@ -91,14 +91,6 @@ var data = {
       "name":"alfie"
     },
     {
-      "site":"ctenophorae.com/",
-      "name":"cteno"
-    },
-    {
-      "site":"slugbox.tumblr.com",
-      "name":"slug"
-    },
-    {
       "site":"twitter.com/slugbox",
       "name":"sbtw"
     }
@@ -125,8 +117,8 @@ var data = {
       "name":"jjcc"
     },
     {
-      "site":"ttothekay.tumblr.com/",
-      "name":"t-kay"
+      "site":"kmanicart.tumblr.com",
+      "name":"kmanic"
     },
     {
       "site":"oglaf.com",
